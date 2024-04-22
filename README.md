@@ -11,7 +11,7 @@ This project is about scraping data of Disney movies in wikipedia
 
 ## 🚀 Usage
 1. **Scrape data**: Scrape Disney data from wikipedia, then clean the data as in `disney.ipynb` and save to into folder `dataset`.
-2. **Mongodb part later**: Done later
+2. **Analysis with Mongodb**: Data queries against movies_collection and directors_collection are performed in `mongodb.ipynb`
 
 ## 📝 Notes
 - `money_conversion.py` is used to develop parsing function for Budget and Box office data. `test_money_conversion.py` is used to help test if the function works for all cases of data.
